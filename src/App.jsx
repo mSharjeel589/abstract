@@ -1,10 +1,10 @@
-// import "./App.css";
+import Checkout from "./components/Checkout";
 
 function App() {
   return (
-    <h1 className="text-4xl font-bold text-center text-red-500">
-      Hello Abstract!
-    </h1>
+    <>
+      <Checkout />
+    </>
   );
 }
 
