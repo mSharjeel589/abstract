@@ -4,7 +4,7 @@ import Popup from "./Popup";
 export default function Checkout() {
   return (
     <div className="relative w-full h-screen bg-[#f3f4f6] overflow-hidden">
-      <img src="./src/assets/bg.png" alt="BG" className="w-full h-full object-cover" />
+      <img src="./bg.png" alt="BG" className="w-full" />
 
       <div className="absolute inset-0 flex flex-col items-center justify-center m-6">
         <div className="flex items-center space-x-4 mb-6">

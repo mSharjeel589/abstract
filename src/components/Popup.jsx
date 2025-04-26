@@ -7,19 +7,19 @@ export default function Popup() {
   const itemsArray = [
     {
       name: "IPhone 12 Pro",
-      src: "./src/assets/mob.png",
+      src: "./mob.png",
       color: "Golden",
       price: "$999.00",
     },
     {
       name: "Apple Watch",
-      src: "./src/assets/watch.png",
+      src: "./watch.png",
       color: "Blue",
       price: "$399.00",
     },
     {
       name: "IMac",
-      src: "./src/assets/iMac.png",
+      src: "./iMac.png",
       color: "Green",
       price: "$1199.00",
     },
